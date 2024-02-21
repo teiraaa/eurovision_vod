@@ -425,6 +425,10 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://www.sanmarinortv.sm/video/una-voce-per-san-marino-prima-semifinale-19-02-2024-v100580
 
+* Semi-Final 2 (20 February)
+
+> https://www.sanmarinortv.sm/video/una-voce-per-san-marino-seconda-semfinale-02-02-2024-v100596
+
 # 🇸🇮 Misija Malmö
 
 * Misija Malmö (20 January)
