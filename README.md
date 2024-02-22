@@ -51,6 +51,14 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://youtu.be/Pjl5liJlFqg
 
+# 🇭🇷 Dora
+
+* Semi-Final 1 (22 February)
+
+> https://www.youtube.com/watch?v=2jK3L6kRE7s
+
+> https://hrti.hrt.hr/home?id=1415939583_delin
+
 # 🇨🇿 Eurovision Song CZ
 
 * Final (4 December)
@@ -425,9 +433,23 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://www.sanmarinortv.sm/video/una-voce-per-san-marino-prima-semifinale-19-02-2024-v100580
 
+> https://www.youtube.com/watch?v=Eh1UVmKKpag
+
 * Semi-Final 2 (20 February)
 
 > https://www.sanmarinortv.sm/video/una-voce-per-san-marino-seconda-semfinale-02-02-2024-v100596
+
+> https://www.youtube.com/watch?v=zhm1qEpieds
+
+* Semi-Final 3 (21 February)
+
+> https://www.sanmarinortv.sm/video/una-voce-per-san-marino-terza-semifinale-21-02-2024-v100629
+
+> https://www.youtube.com/watch?v=SptqXRYaYTo
+
+* Semi-Final 4 (22 February)
+
+> https://www.youtube.com/watch?v=XeIxFLbQQsM
 
 # 🇸🇮 Misija Malmö
 
