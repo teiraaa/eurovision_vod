@@ -25,7 +25,7 @@ Date and Time | Country | Show
 
 # On-demand links
 
-Some of the links might become unavailable overtime, if that is the case for a show that you are interested in watching feel free to send me a message so I can reupload it! 💜
+Some of the links might become unavailable overtime, if that is the case for a show that you are interested in watching feel free to send me a message on Discord at `@teiraa` I can reupload it! 💜
 
 # Eurovision: The Draw
 
