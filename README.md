@@ -59,6 +59,12 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://hrti.hrt.hr/home?id=1415939583_delin
 
+* Semi-Final 2 (23 February)
+
+> https://www.youtube.com/watch?v=HsSp5OpY0dc
+
+> https://hrti.hrt.hr/home?id=1416475807_delin
+
 # 🇨🇿 Eurovision Song CZ
 
 * Final (4 December)
@@ -450,6 +456,10 @@ Some of the links might become unavailable overtime, if that is the case for a s
 * Semi-Final 4 (22 February)
 
 > https://www.youtube.com/watch?v=XeIxFLbQQsM
+
+* Semi-Final 5 / Second Chance Round (23 February)
+
+> https://www.youtube.com/watch?v=TR1rmXQwhs8
 
 # 🇸🇮 Misija Malmö
 
