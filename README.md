@@ -169,6 +169,10 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://www.ruv.is/sjonvarp/spila/songvakeppnin-2024/35691/akc0th
 
+* Semi-Final 2 (24 February)
+
+> https://www.ruv.is/sjonvarp/spila/songvakeppnin-2024/35691/akc0ti
+
 # 🇮🇪 Eurosong
 
 * Final (26 January)
