@@ -465,6 +465,10 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://www.youtube.com/watch?v=TR1rmXQwhs8
 
+* Final (24 February)
+
+> https://www.youtube.com/watch?v=fhDECYpsixk
+
 # 🇸🇮 Misija Malmö
 
 * Misija Malmö (20 January)
