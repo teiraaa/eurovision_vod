@@ -503,6 +503,12 @@ Due to the rule that songs qualified directly to the final can't be released dur
 
 > https://arenan.yle.fi/1-67765306 (only available in Finland)
 
+* Heat 4 (24 February)
+
+> https://www.svtplay.se/video/85oEXyr/melodifestivalen/deltavling-4
+
+> https://arenan.yle.fi/1-67765383 (only available in Finland)
+
 # 🇺🇦 Vidbir
 
 * Final (3 February)
