@@ -69,6 +69,8 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://www.youtube.com/watch?v=NpeFL0A86aU
 
+> https://hrti.hrt.hr/home?id=1418049957&channelId=40013
+
 # 🇨🇿 Eurovision Song CZ
 
 * Final (4 December)
