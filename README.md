@@ -65,6 +65,10 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://hrti.hrt.hr/home?id=1416475807_delin
 
+* Final (25 February)
+
+> https://www.youtube.com/watch?v=NpeFL0A86aU
+
 # 🇨🇿 Eurovision Song CZ
 
 * Final (4 December)
