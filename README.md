@@ -435,6 +435,12 @@ Some of the links might become unavailable overtime, if that is the case for a s
 
 > https://tv.nrk.no/serie/melodi-grand-prix-tv/2024/MUHU24002824
 
+# 🇵🇹 Festival da Canção
+
+* Semi-Final 1 (24 February)
+
+> https://www.rtp.pt/play/p12975/e750531/festival-da-cancao-2024
+
 # 🇸🇲 Una Voce per San Marino
 
 [Check this post to rewatch the auditions, they're too many to list here.](https://www.reddit.com/r/eurovision/comments/19bmvie/megathread_links_to_rewatch_all_auditions_of_una/)
