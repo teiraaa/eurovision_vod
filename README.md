@@ -4,22 +4,16 @@ Previous megathreads: [ESC 2022](https://www.reddit.com/r/eurovision/comments/qj
 
 *****
 
-**19–25 February**
+**26 February–3 March**
 
 Date and Time | Country | Show
 ---|:---:|---
-[19 February at 21:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T2140&p1=732) (145 min.) | San Marino | Una Voce per San Marino: Semi-Final 1
-[20 February at 21:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240220T2140&p1=732) (145 min.) | San Marino | Una Voce per San Marino: Semi-Final 2
-[21 February at 21:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240221T2140&p1=732) (145 min.) | San Marino | Una Voce per San Marino: Semi-Final 3
-[22 February at 20:15](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240222T2015&p1=281) (120 min.) | Croatia | Dora: Semi-Final 1
-[22 February at 21:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240222T2140&p1=732) (145 min.) | San Marino | Una Voce per San Marino: Semi-Final 4
-[23 February at 20:15](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240223T2015&p1=281) (120 min.) | Croatia | Dora: Semi-Final 2
-[23 February at 21:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T2140&p1=732) (120 min.) | San Marino | Una Voce per San Marino: Semi-Final 5 and Second Chance Round
-[24 February at 20:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240224T20&p1=1387) (90 min.) | Sweden | Melodifestivalen: Heat 4
-[24 February at 20:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240224T1945&p1=211) (90 min.) | Iceland | Söngvakeppnin: Semi-Final 2
-[23 February at 21:40](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240219T2140&p1=732) (240 min.) | San Marino | **Una Voce per San Marino: Final**
-[24 February at 22:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240224T21&p1=133) (180 min.) | Portugal | Festival da Canção: Semi-Final 1
-[25 February at 20:15](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240225T2015&p1=281) (170 min.) | Croatia | **Dora: Final**
+[27 February at 21:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240227T21&p1=35) (150 min.) | Serbia | Pesma za Evroviziju: Semi-Final 1
+[29 February at 21:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240229T21&p1=35) (150 min.) | Serbia | Pesma za Evroviziju: Semi-Final 2
+[2 March at 20:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240302T20&p1=1389) (120 min.) | Sweden | Melodifestivalen: Heat 5
+[2 March at 20:45](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240203T1945&p1=211) (145 min.) | Iceland | **Söngvakeppnin: Final**
+[2 March at 21:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240302T21&p1=35) (210 min.) | Serbia | **Pesma za Evroviziju: Final**
+[2 March at 22:00](https://www.timeanddate.com/worldclock/fixedtime.html?iso=20240302T21&p1=133) (180 min.) | Portugal | Festival da Canção: Semi-Final 2
 
 *****
 
