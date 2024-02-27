@@ -1,6 +1,6 @@
 Hello! Check out the links below for a full list of places to watch the national selections from each Eurovision contest on-demand. 💙
 
-Over the course of time, as broadcasters lose the rights or take them down to save space, sadly the official links might stop working. If you find that this is the case for a show that you would like to watch, feel free to message me on Discord (`@teiraa`), Twitter ([`@ganbaremelody`](https://twitter.com/ganbaremelody)) or Bluesky (`teiraa.bsky.social`) so that I can re-upload it somewhere else. Thanks!
+Over the course of time, as broadcasters lose the rights or take them down to save space, sadly the official links might stop working. If you find that this is the case for a show that you would like to watch, feel free to message me on Discord ([`@teiraa`](https://discordapp.com/users/397098874398965761)), Twitter ([`@ganbaremelody`](https://twitter.com/ganbaremelody)) or Bluesky ([`teiraa.bsky.social`](https://bsky.app/profile/teiraa.bsky.social)) so that I can re-upload it somewhere else. Thanks!
 
 # [Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/esc2024.md)
 
