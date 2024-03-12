@@ -9,3 +9,11 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 # [Eurovision Young Musicians 2024](https://github.com/teiraaa/esc_vod_links/blob/main/eym2024.md)
 
 > [🇳🇴](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-virtuos)
+
+# [Junior Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/jesc2024.md)
+
+> [🇬🇪](https://github.com/teiraaa/esc_vod_links/blob/main/jesc2024.md#-ranina)
+
+# [Regio Songfestival 2024](https://github.com/teiraaa/esc_vod_links/blob/main/rsf2024.md)
+
+> —
