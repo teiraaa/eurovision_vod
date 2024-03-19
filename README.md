@@ -16,4 +16,8 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Regio Songfestival 2024](https://github.com/teiraaa/esc_vod_links/blob/main/rsf2024.md)
 
-> [![Rotterdam](https://github.com/teiraaa/eurovision_vod/blob/main/9844a069ae43c742f234429e5ac05d5b.png)](https://example.com)
+> <a href="https://github.com/teiraaa/eurovision_vod/blob/main/9844a069ae43c742f234429e5ac05d5b.png">
+  <img src="https://github.com/teiraaa/eurovision_vod/raw/main/9844a069ae43c742f234429e5ac05d5b.png" alt="Rotterdam" width="12px">
+</a> | > <a href="https://github.com/teiraaa/eurovision_vod/blob/main/9844a069ae43c742f234429e5ac05d5b.png">
+  <img src="https://github.com/teiraaa/eurovision_vod/raw/main/9844a069ae43c742f234429e5ac05d5b.png" alt="Rotterdam" width="12px">
+</a> | 
