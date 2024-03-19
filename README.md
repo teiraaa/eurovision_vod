@@ -16,7 +16,7 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Regio Songfestival 2024](https://github.com/teiraaa/esc_vod_links/blob/main/rsf2024.md)
 
-> <div style="display: flex; align-items: center; justify-content: center;">
+> <div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
     [<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/denhaag.png" alt="Flag of Den Haag" width="18px">](https://en.wikipedia.org/wiki/Den_Haag) | 
     [<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/drenthe.png" alt="Flag of Drenthe" width="18px">](https://en.wikipedia.org/wiki/Drenthe) | 
     [<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/flevoland.png" alt="Flag of Flevoland" width="18px">](https://en.wikipedia.org/wiki/Flevoland) | 
@@ -32,3 +32,4 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
     [<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/zeeland.png" alt="Flag of Zeeland" width="18px">](https://en.wikipedia.org/wiki/Zeeland) | 
     [<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/zuidholland.png" alt="Flag of Zuid-Holland" width="18px">](https://en.wikipedia.org/wiki/Zuid-Holland)
 </div>
+
