@@ -8,7 +8,7 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Eurovision Young Musicians 2024](https://github.com/teiraaa/esc_vod_links/blob/main/eym2024.md)
 
-> [🇳🇴](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-virtuos)
+> [🇦🇲](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-%D5%A4%D5%A5%D5%BA%D5%AB-%D5%A4%D5%A1%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6-%D5%A5%D5%BE%D6%80%D5%A1%D5%BF%D5%A5%D5%BD%D5%AB%D5%AC-depi-yasakan-evratesil) | [🇳🇴](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-virtuos)
 
 # [Junior Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/jesc2024.md)
 
