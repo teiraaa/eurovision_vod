@@ -8,7 +8,7 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Eurovision Young Musicians 2024](https://github.com/teiraaa/esc_vod_links/blob/main/eym2024.md)
 
-> [🇦🇲](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-%D5%A4%D5%A5%D5%BA%D5%AB-%D5%A4%D5%A1%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6-%D5%A5%D5%BE%D6%80%D5%A1%D5%BF%D5%A5%D5%BD%D5%AB%D5%AC-depi-yasakan-evratesil) | [🇳🇴](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-virtuos)
+> [🇦🇲](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-%D5%A4%D5%A5%D5%BA%D5%AB-%D5%A4%D5%A1%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6-%D5%A5%D5%BE%D6%80%D5%A1%D5%BF%D5%A5%D5%BD%D5%AB%D5%AC-depi-yasakan-evratesil) | [🇳🇴](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md#-virtuos) | [🇵🇱](https://github.com/teiraaa/eurovision_vod/blob/main/eym2024.md)
 
 # [Junior Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/jesc2024.md)
 
@@ -16,17 +16,4 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Regio Songfestival 2024](https://github.com/teiraaa/esc_vod_links/blob/main/rsf2024.md)
 
-> [<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/denhaag.png" alt="Flag of Den Haag" width="18px">](https://en.wikipedia.org/wiki/Den_Haag) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/drenthe.png" alt="Flag of Drenthe" width="18px">](https://en.wikipedia.org/wiki/Drenthe) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/flevoland.png" alt="Flag of Flevoland" width="18px">](https://en.wikipedia.org/wiki/Flevoland) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/fryslân.png" alt="Flag of Fryslân" width="18px">](https://en.wikipedia.org/wiki/Fryslân) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/gelderland.png" alt="Flag of Gelderland" width="18px">](https://en.wikipedia.org/wiki/Gelderland) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/groningen.png" alt="Flag of Groningen" width="18px">](https://en.wikipedia.org/wiki/Groningen) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/limburg.png" alt="Flag of Limburg" width="18px">](https://en.wikipedia.org/wiki/Limburg) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/noordbrabant.png" alt="Flag of Noord-Brabant" width="18px">](https://en.wikipedia.org/wiki/Noord-Brabant) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/noordholland.png" alt="Flag of Noord-Holland" width="18px">](https://en.wikipedia.org/wiki/Noord-Holland) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/overijssel.png" alt="Flag of Overijssel" width="18px">](https://en.wikipedia.org/wiki/Overijssel) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/rotterdam.png" alt="Flag of Rotterdam" width="18px">](https://en.wikipedia.org/wiki/Rotterdam) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/utrecht.png" alt="Flag of Utrecht" width="18px">](https://en.wikipedia.org/wiki/Utrecht) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/zeeland.png" alt="Flag of Zeeland" width="18px">](https://en.wikipedia.org/wiki/Zeeland) | 
-[<img src="https://github.com/teiraaa/eurovision_vod/raw/tests/flags/zuidholland.png" alt="Flag of Zuid-Holland" width="18px">](https://en.wikipedia.org/wiki/Zuid-Holland)
+> —
