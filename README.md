@@ -12,7 +12,7 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Junior Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/jesc2024.md)
 
-> [🇪🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-t%C3%A4htede-lava) | [🇬🇪](https://github.com/teiraaa/esc_vod_links/blob/main/jesc2024.md#-ranina) | [🇵🇱](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-szansa-na-sukces--eurowizja-junior) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-the-voice-kids)
+> [🇪🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-t%C3%A4htede-lava) | [🇬🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-ranina-%E1%83%A0%E1%83%90%E1%83%9C%E1%83%98%E1%83%9C%E1%83%90) | [🇵🇱](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-szansa-na-sukces--eurowizja-junior) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-the-voice-kids)
 
 # [Regio Songfestival 2024](https://github.com/teiraaa/esc_vod_links/blob/main/rsf2024.md)
 
