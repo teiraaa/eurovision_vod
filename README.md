@@ -1,6 +1,6 @@
 Hello! Check out the links below for a full list of places to watch the national selections from each Eurovision contest on-demand. 💙
 
-Over the course of time, as broadcasters lose the rights or take them down to save space, sadly the official links might stop working. If you find that this is the case for a show that you would like to watch, feel free to message me on Discord ([`@teiraa`](https://discordapp.com/users/397098874398965761)), Twitter ([`@ganbaremelody`](https://twitter.com/ganbaremelody)) or Bluesky ([`teiraa.bsky.social`](https://bsky.app/profile/teiraa.bsky.social)) so that I can re-upload it somewhere else. Thanks!
+Over the course of time, as broadcasters lose the rights or take them down to save space, sadly the official links might stop working. If you find that this is the case for a show that you would like to watch, feel free to message me on Discord ([`@teiraa`](https://discordapp.com/users/397098874398965761)) or Bluesky ([`teiraa.bsky.social`](https://bsky.app/profile/teiraa.bsky.social)) so that I can re-upload it somewhere else. Thanks!
 
 # [Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/esc2024.md)
 
@@ -12,8 +12,4 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Junior Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/jesc2024.md)
 
-> [🇪🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-t%C3%A4htede-lava) | [🇬🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-ranina-%E1%83%A0%E1%83%90%E1%83%9C%E1%83%98%E1%83%9C%E1%83%90) | [🇵🇱](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-szansa-na-sukces--eurowizja-junior) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-the-voice-kids)
-
-# [Regio Songfestival 2024](https://github.com/teiraaa/esc_vod_links/blob/main/rsf2024.md)
-
-> —
+> [🇦🇱](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-junior-fest) | [🇪🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-t%C3%A4htede-lava) | [🇬🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-ranina-%E1%83%A0%E1%83%90%E1%83%9C%E1%83%98%E1%83%9C%E1%83%90) | [🇮🇪](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-junior-eurovision-%C3%A9ire) | [🇲🇹](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-malta-junior-eurovision-song-contest) | [🇵🇱](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-szansa-na-sukces--eurowizja-junior) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-the-voice-kids) | [🇺🇦](https://github.com/teiraaa/eurovision_vod/blob/main/jesc2024.md#-%D0%BD%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D0%B2%D1%96%D0%B4%D0%B1%D1%96%D1%80-%D0%BD%D0%B0-%D0%B4%D0%B8%D1%82%D1%8F%D1%87%D0%B5-%D1%94%D0%B2%D1%80%D0%BE%D0%B1%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F-2024)
