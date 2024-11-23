@@ -4,7 +4,7 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Eurovision Song Contest 2025](https://github.com/teiraaa/esc_vod_links/blob/main/esc2025.md)
 
-> [🇮🇱](https://github.com/teiraaa/eurovision_vod/blob/main/esc2025.md#-hakokhav-haba) | [🇮🇹](https://github.com/teiraaa/eurovision_vod/blob/main/esc2025.md#-festival-di-sanremo)
+> [🇮🇱](https://github.com/teiraaa/eurovision_vod/blob/main/esc2025.md#-hakokhav-haba-%D7%94%D7%9B%D7%95%D7%9B%D7%91-%D7%94%D7%91%D7%90) | [🇮🇹](https://github.com/teiraaa/eurovision_vod/blob/main/esc2025.md#-festival-di-sanremo)
 
 # [Eurovision Song Contest 2024](https://github.com/teiraaa/esc_vod_links/blob/main/esc2024.md)
 
