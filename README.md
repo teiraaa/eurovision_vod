@@ -8,7 +8,7 @@ Over the course of time, as broadcasters lose the rights or take them down to sa
 
 # [Junior Eurovision Song Contest 2025](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md)
 
-> [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-the-voice-kids)
+> [🇦🇱](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-festivali-mbar%C3%ABkomb%C3%ABtar-i-k%C3%ABng%C3%ABs-p%C3%ABr-f%C3%ABmij%C3%AB) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-the-voice-kids)
 
 # [Eurovision Song Contest 2024](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2024.md)
 
