@@ -1,6 +1,6 @@
 # Calendar (August 2025)
 
--# All times listed Central European, click on the timestamps to convert them.
+All times listed Central European, click on the timestamps to convert them.
 
 Date and time | Country | Show
 ---|---|---
