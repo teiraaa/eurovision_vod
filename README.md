@@ -10,7 +10,7 @@ On calendar tables, listed timestamps follow central European time. Currently, t
 
 # [Junior Eurovision Song Contest 2025](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md)
 
-> [🇦🇱](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-festivali-i-k%C3%ABng%C3%ABs-p%C3%ABr-f%C3%ABmij%C3%AB) | [🇬🇪](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-ranina) | [🇳🇱](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-junior-songfestival) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-the-voice-kids)
+> [🇦🇱](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-festivali-i-k%C3%ABng%C3%ABs-p%C3%ABr-f%C3%ABmij%C3%AB) | [🇬🇪](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-ranina) | [🇮🇪](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-junior-eurovision-éire) | [🇳🇱](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-junior-songfestival) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-the-voice-kids) | [🇺🇦](https://github.com/teiraaa/eurovision_vod/blob/main/contests/jesc2025.md#-нацвідбір-на-дитяче-євробачення)
 
 # [Eurovision Song Contest 2025](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2025.md)
 
