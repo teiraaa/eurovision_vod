@@ -1,4 +1,4 @@
-Some of these links might have geographical restrictions or be taken down after a certain amount of time, sadly, due to rights restrictions or simply as the broadcasters want to save storage space; if this is the case for a show you are interested in watching, feel free to reach out on Bluesky ([`bochibochigalaxy.bsky.social`](https://bsky.app/profile/bochibochigalaxy.bsky.social) and I should be able to send a copy!
+Some of these links might have geographical restrictions or be taken down after a certain amount of time, sadly, due to rights restrictions or simply as the broadcasters want to save storage space; if this is the case for a show you are interested in watching, feel free to reach out on Bluesky ([`bochibochigalaxy.bsky.social`](https://bsky.app/profile/bochibochigalaxy.bsky.social)) and I should be able to send a copy!
 
 # [Eurovision Song Contest 2026](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md)
 
