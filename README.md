@@ -2,4 +2,4 @@ Some of these links might have geographical restrictions or be taken down after 
 
 # [Eurovision Song Contest 2026](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md)
 
-> [🇦🇱](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-festivali-i-k%C3%ABng%C3%ABs) | [🇮🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-festival-di-sanremo) | [🇲🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-malta-eurovision-song-contest) | [🇲🇪](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-montesong)
+> [🇦🇱](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-festivali-i-k%C3%ABng%C3%ABs) | [🇮🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-festival-di-sanremo) | [🇲🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-malta-eurovision-song-contest) | [🇲🇩](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-selecția-națională) | [🇲🇪](https://github.com/teiraaa/eurovision_vod/blob/main/contests/esc2026.md#-montesong)
