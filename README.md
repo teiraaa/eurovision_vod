@@ -6,4 +6,4 @@ Some of these links might have geographical restrictions or be taken down after 
 
 # [Eurovision Young Musicians 2026](https://github.com/teiraaa/eurovision_vod/blob/main/contests/eym2026.md)
 
-> [🇱🇻](https://github.com/teiraaa/eurovision_vod/blob/main/contests/eym2026.md#-latvijas-jaunais-virtuozs)
+> [🇱🇻](https://github.com/teiraaa/eurovision_vod/blob/main/contests/eym2026.md#-latvijas-jaunais-virtuozs) | [🇵🇹](https://github.com/teiraaa/eurovision_vod/blob/main/contests/eym2026.md#-festival-dos-jovens-m%C3%BAsicos)
